@@ -374,7 +374,7 @@ margin."
   sv-mode-version)
 
 ;;;###autoload
-(add-to-list 'auto-mode-alist '("\\.[ds]?vh\\'" . sv-mode))
+(add-to-list 'auto-mode-alist '("\\.m[ds]?vh\\'" . sv-mode))
 
 (provide 'sv-mode)
 

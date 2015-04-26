@@ -1,0 +1,11 @@
+
+"This is the comments"
+
+module
+
+int a = 1;
+
+endmodule
+
+
+sv-font-lock-keywords

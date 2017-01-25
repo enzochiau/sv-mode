@@ -1,8 +1,8 @@
 ;;; sv-mode.el --- Major mode for editing SystemVerilog files
 
-;; Copyright (C) 2014-2015 Enzo Chi
+;; Copyright (C) 2017 Enze Chi
 
-;; Author: Enzo Chi <enzoc.chi.au@gmail.com>
+;; Author: Enze Chi <enze.chi@gmail.com>
 ;; Keywords: systemverilog
 ;; Version: 0.0.1
 
